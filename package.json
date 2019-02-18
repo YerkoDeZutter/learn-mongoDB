@@ -1,0 +1,26 @@
+{
+  "name": "learn-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YerkoDeZutter/learn-mongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YerkoDeZutter/learn-mongoDB/issues"
+  },
+  "homepage": "https://github.com/YerkoDeZutter/learn-mongoDB#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mocha": "^5.2.0",
+    "mongoose": "^5.4.12"
+  }
+}
